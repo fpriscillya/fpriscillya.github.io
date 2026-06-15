@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mylittlegolf.app",
+        "sha256_cert_fingerprints": ["17:85:D3:5D:81:E5:A5:20:DC:EB:57:D5:41:ED:06:A7:3B:76:8C:7E:7B:11:99:B0:9A:86:F3:5E:11:7C:5D:45"]
+      }
+    }]
